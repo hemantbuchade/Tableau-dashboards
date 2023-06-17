@@ -17,4 +17,8 @@ The problem at hand is to create a Tableau dashboard that showcases a comprehens
 
 ## Conclusion:
 
-- The Tableau dashboard of Netflix movies and TV shows provides valuable insights into the content available on the platform. Through interactive visualizations and intuitive user interface design, users can explore various aspects of the data, including genres, ratings, and release dates. The dashboard enables users to make informed decisions based on the analysis and gain a deeper understanding of the Netflix content landscape. It serves as a powerful tool for content creators, analysts, and Netflix enthusiasts to explore and analyze the vast library of movies and TV shows available on the platform.
+- The Tableau dashboard of Netflix movies and TV shows provides valuable insights into the content available on the platform. Through interactive visualizations and intuitive user interface design, users can explore various aspects of the data, including genres, ratings, and release dates. The dashboard enables users to make informed decisions based on the analysis and better understand the Netflix content landscape. It is a powerful tool for content creators, analysts, and Netflix enthusiasts to explore and analyze the vast library of movies and TV shows on the platform.
+
+-----------------------------------------------------------------------------------------------
+
+## 2)IBM HR Dashboard
