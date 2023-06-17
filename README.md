@@ -19,7 +19,7 @@ The problem at hand is to create a Tableau dashboard that showcases a comprehens
 
 - The Tableau dashboard of Netflix movies and TV shows provides valuable insights into the content available on the platform. Through interactive visualizations and intuitive user interface design, users can explore various aspects of the data, including genres, ratings, and release dates. The dashboard enables users to make informed decisions based on the analysis and better understand the Netflix content landscape. It is a powerful tool for content creators, analysts, and Netflix enthusiasts to explore and analyze the vast library of movies and TV shows on the platform.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 2)IBM HR Dashboard
 
@@ -51,5 +51,27 @@ The IBM HR dashboard provides HR professionals with a powerful tool to analyze a
 
 ## 2)Breaking Bad Series Analysis
 
+![Breaking Bad](https://github.com/hemantbuchade/Tableau-dashboards/blob/main/Breaking%20Bad%20Series%20Analysis.png)
 
+## Problem Statement:
+
+The problem at hand is to analyze the TV series Breaking Bad and create a tableau dashboard that provides insights into various aspects of the show. The goal is to explore and visualize key elements such as character analysis, episode details, ratings, and viewer engagement. The dashboard should enable fans and enthusiasts of Breaking Bad to gain a deeper understanding of the show's storyline, characters, and popularity.
+
+## Methodology
+
+- Data collection from reliable sources such as Kaggle.
+- Data cleaning and preparation for analysis in Tableau.
+- Calculation of key metrics and creation of visualizations.
+
+## Key Findings and Insights
+
+- Season-wise breakdown of episodes and their distribution.
+- IMDB ratings for each episode and season averages.
+- Duration of episodes and variations across seasons.
+- Viewership numbers in the United States, highlighting trends.
+- Notable directors and their contributions to the show.
+
+## Conclusion:
+
+The Breaking Bad tableau dashboard provides fans and enthusiasts with an engaging and informative platform to explore various aspects of the show. By analyzing episode ratings, viewer,ratings, and social media buzz, the dashboard offers insights into the show's popularity, storyline, and impact. It allows users to delve into specific details, visualize trends, and gain a deeper understanding of Breaking Bad. The dashboard serves as a valuable resource for fans to relive and analyze their favorite TV series while showcasing the power of data visualization in storytelling.
 
