@@ -46,3 +46,10 @@ The problem at hand is to create an IBM HR dashboard that provides insights into
 ## Conclusion:
 
 The IBM HR dashboard provides HR professionals with a powerful tool to analyze and gain insights from HR data within the organization. Through interactive visualizations and analytics, the dashboard enables HR teams to monitor key metrics, identify trends, and make data-driven decisions. It facilitates effective workforce planning, talent management, and employee engagement strategies. The IBM HR dashboard serves as a valuable asset in optimizing HR processes, improving employee satisfaction, and driving organizational success.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 2)Breaking Bad Series Analysis
+
+
+
